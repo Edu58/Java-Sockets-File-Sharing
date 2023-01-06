@@ -96,7 +96,7 @@ public class Server {
                                             jfPreviewYesBtn.setPreferredSize(new Dimension(150, 75));
                                             jfPreviewYesBtn.setFont(new Font("Poppins", Font.BOLD, 15));
 
-                                            JButton jfPreviewNoBtn = new JButton("Yes");
+                                            JButton jfPreviewNoBtn = new JButton("No");
                                             jfPreviewNoBtn.setBackground(Color.RED);
                                             jfPreviewNoBtn.setPreferredSize(new Dimension(150, 75));
                                             jfPreviewNoBtn.setFont(new Font("Poppins", Font.BOLD, 15));
